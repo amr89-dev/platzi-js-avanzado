@@ -1,0 +1,10 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del curso profesional de JS",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["platzi"],
+  "author": "Amado Martínez <amr89.dev@gmail.com",
+  "license": "MIT"
+}
